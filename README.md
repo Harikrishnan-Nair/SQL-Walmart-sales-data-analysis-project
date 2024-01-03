@@ -30,6 +30,8 @@ Additionally, three derived columns have been incorporated through feature engin
 3. Month_name
 
 The link to the data analysis file is https://github.com/Harikrishnan-Nair/SQL-Walmart-sales-data-analysis-project/blob/main/Walmart%20sales%20analysis.sql
+
+
 **Insights**
 1. **Payment Preferences:** Ewallet and Cash are the most favored payment methods, with credit cards as a close third.
 2. **Product Sales Performance:** Fashion accessories lead in sales volume among all product lines.
