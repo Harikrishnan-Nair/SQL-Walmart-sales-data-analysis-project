@@ -4,7 +4,7 @@ This comprehensive data analysis project focuses on Walmart sales data with the 
 **Dataset Description:**
 The utilized dataset comprises the following columns:
 
-Invoice_ID
+1. Invoice_ID
 Branch
 City
 Customer_type
