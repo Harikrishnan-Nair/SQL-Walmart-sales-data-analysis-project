@@ -45,7 +45,7 @@ The link to the data analysis file is https://github.com/Harikrishnan-Nair/SQL-W
 10. **Branch-wise Shopper Demographics:** Branch A attracts the highest male shoppers, whereas Branch C sees the highest number of female shoppers.
 
 
-**Recommendations**
+**Strategic Recommendations**
 1. **Payment Method Optimization:** Encourage the promotion and ease of use of Ewallets and Credit cards as this will help reducing efforts for cash handling. Consider loyalty programs or discounts for customers using these payment methods.
 2. **Product Line Enhancement:** Invest in marketing and product development for Fashion accessories, capitalizing on its current popularity to further boost sales.
 3. **Revenue Recovery Strategies:** Investigate the factors contributing to the declining revenue trend since January and implement targeted marketing or promotional campaigns to reverse this trend.
